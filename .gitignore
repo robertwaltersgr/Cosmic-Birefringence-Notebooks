@@ -3,6 +3,8 @@ research/
 software/
 class_v3.4.0/
 CLASS_v3.4.0/
+.vscode/
+.kilo/
 __pycache__/
 .ipynb_checkpoints/
 *.so
